@@ -10,7 +10,9 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Development](#development)
   - [Continued development](#continued-development)
+  - [Google Fonts](#google-fonts)
 - [Author](#author)
 
 
@@ -32,8 +34,8 @@ In this project, the goal is to build an FAQ accordion, a common front-end patte
 
 ### Links
 
-- Solution URL: [Solution URL here]()
-- Live Site URL: [Live site URL here]()
+- Solution URL: [Solution URL here](https://github.com/mousa-creations/faq-accordion-main)
+- Live Site URL: [Live site URL here](https://faq-accordion-mainz.netlify.app/)
 
 
 
